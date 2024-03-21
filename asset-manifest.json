@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/static/css/main.8ee438de.css",
+    "main.js": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/static/js/main.d0e14be8.js",
+    "static/js/453.584e3e5b.chunk.js": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/static/js/453.584e3e5b.chunk.js",
+    "static/media/form.jpg": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/static/media/form.92cd8aec9d6906e878f5.jpg",
+    "static/media/Image1.jpg": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/static/media/Image1.7310e75f863e261c93f1.jpg",
+    "index.html": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/index.html",
+    "main.8ee438de.css.map": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/static/css/main.8ee438de.css.map",
+    "main.d0e14be8.js.map": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/static/js/main.d0e14be8.js.map",
+    "453.584e3e5b.chunk.js.map": "/%7Bhttps://github.com/amala3456/Restaurant.git%7D/static/js/453.584e3e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ee438de.css",
+    "static/js/main.d0e14be8.js"
+  ]
+}
